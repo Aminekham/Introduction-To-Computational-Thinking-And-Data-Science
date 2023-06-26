@@ -28,6 +28,7 @@ To get started with the course materials, follow these steps:
 The course covers the following topics:
 
 - Introduction to computational thinking
+- Optimization Problems
 - Python programming basics
 - Data types and structures
 - Data manipulation and analysis
