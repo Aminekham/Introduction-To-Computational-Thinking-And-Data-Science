@@ -38,8 +38,7 @@ Each topic is presented with theoretical explanations, code examples, and hands-
 
 ## Contributing
 
-Contributions to this repository are welcome! If you find any issues or have suggestions for improvement, please submit an issue or pull request following the [contribution guidelines](CONTRIBUTING.md).
-
+Contributions to this repository are welcome! If you find any issues or have suggestions for improvement
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and materials for educational and personal purposes.
